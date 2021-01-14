@@ -1,0 +1,8 @@
+{
+  "domain": "colortuya",
+  "name": "RGB light Tuya Local",
+  "documentation": "https://github.com/yangqian/hass-colortuya/",
+  "dependencies": [],
+  "codeowners": ["@yangqian"],
+  "requirements": []
+}
